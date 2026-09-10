@@ -28,18 +28,6 @@ udp://@225.1.1.128:30120
 udp://@225.1.2.245:30120
 
 #-------------------FPT Service-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
-udp://@225.1.1.2:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
-udp://@225.1.4.199:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
-udp://@225.1.4.200:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Multiscreen
-udp://@225.1.1.21:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Multiscreen
-udp://@225.1.1.22:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Multiscreen
-udp://@225.1.1.23:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 10
 udp://@225.1.1.10:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 12
@@ -48,6 +36,8 @@ udp://@225.1.1.12:30120
 udp://@225.1.1.15:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 17
 udp://@225.1.1.17:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 20
+udp://@225.1.1.20:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 27
 udp://@225.1.1.27:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 28
@@ -140,12 +130,28 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 101
 udp://@225.1.1.101:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event (H264 FHD)
-udp://@225.1.1.203:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event (H265 UHD)
-udp://@225.1.2.203:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event (H265 FHD)
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 48 (H265 FHD)
+udp://@225.1.2.48:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 50 (H265 FHD)
+udp://@225.1.2.50:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 53 (H265 FHD)
+udp://@225.1.2.53:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 57 (H265 FHD)
+udp://@225.1.2.57:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 58 (H265 FHD)
+udp://@225.1.2.58:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 82 (H265 FHD)	
+udp://@225.1.2.82:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 84 (H265 FHD)
 udp://@225.1.2.84:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 150 (H265 UHD)
+udp://@225.1.2.150:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 152 (H265 UHD)
+udp://@225.1.2.152:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 153 (H265 UHD)
+udp://@225.1.2.153:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 203 (H265 UHD)
+udp://@225.1.2.203:30120
 #-------------------Quốc Tế (HD)| FPT-------------------#
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)| FPT" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
 udp://@225.1.2.21:30120
@@ -216,6 +222,104 @@ udp://@225.1.1.200:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)| FPT" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 udp://@225.1.1.139:30120
 
+#-------------------Sự Kiện TV360-------------------#
+#EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus2.png", TV360+1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus1&token=98b686ba8c65005af1fb96e9671934f3
+https://tv.vietanhtv.top/tv360/tv360.php?id=2554&expires=1789108592&token=fb0c4c9d3592c2a3016d00b670514466
+
+#EXTINF:-1 tvg-id="tv360plus2" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus2.png", TV360+2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus2&token=98b686ba8c65005af1fb96e9671934f3
+https://tv.vietanhtv.top/tv360/tv360.php?id=1&expires=1789108592&token=5ebf19d571bbf5d657848e12864eef99
+
+#EXTINF:-1 tvg-id="tv360plus3" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus3.png", TV360+3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus3&token=98b686ba8c65005af1fb96e9671934f3
+https://tv.vietanhtv.top/tv360/tv360.php?id=148&expires=1789108592&token=54bd78ddb04652c4305436a8e2ea566c
+
+#EXTINF:-1 tvg-id="tv360plus4" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus4.png", TV360+4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus4&token=98b686ba8c65005af1fb96e9671934f3
+https://tv.vietanhtv.top/tv360/tv360.php?id=2458&expires=1789108592&token=7609abcf7ddf01444f63313e64c258ef
+
+#EXTINF:-1 tvg-id="tv360plus5" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus5.png", TV360+5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus5&token=98b686ba8c65005af1fb96e9671934f3
+https://tv.vietanhtv.top/tv360/tv360.php?id=9867&expires=1789108592&token=bcf431e0a1bddf9d3894ae69a119f156
+
+#EXTINF:-1 tvg-id="tv360plus6" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus6.png", TV360+6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus6&token=98b686ba8c65005af1fb96e9671934f3
+https://tv.vietanhtv.top/tv360/tv360.php?id=9868&expires=1789108592&token=12be28e7871f594f223f5e1e6c6c1307
+
+#EXTINF:-1 tvg-id="tv360plus7" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus7.png", TV360+7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus7&token=98b686ba8c65005af1fb96e9671934f3
+https://tv.vietanhtv.top/tv360/tv360.php?id=9869&expires=1789108592&token=dd0c7c1a2cfd1d90f0704b4f64a730c8
+
+#EXTINF:-1 tvg-id="tv360plus8" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus8.png", TV360+8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus8&token=98b686ba8c65005af1fb96e9671934f3
+https://tv.vietanhtv.top/tv360/tv360.php?id=9870&expires=1789108592&token=d76790bc882548604cb2aa2a96098f07
+
+#EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.vietanhtv.top/tv360/tv360.php?id=9887&expires=1789108592&token=b2d129a7e9f8254116e214262e8960b1
+
+#EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus10.png", TV360+10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.vietanhtv.top/tv360/tv360.php?id=9957&expires=1789108592&token=e058a7851dfed44638a042e3d6876bd8
+
+#EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus11.png", TV360+11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.vietanhtv.top/tv360/tv360.php?id=9958&expires=1789108592&token=0f4d7c2827f569d33463c90ffa78b800
+
+#EXTINF:-1 tvg-id="tv360plus12" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus12.png", TV360+12
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus12&token=98b686ba8c65005af1fb96e9671934f3
+https://tv.vietanhtv.top/tv360/tv360.php?id=10001&expires=1789108592&token=869e89c8a0b88e4cac2d8269036c6509
+
+#EXTINF:-1 tvg-id="tv360plus13" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_480_270.png", TV360+13
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus13&token=98b686ba8c65005af1fb96e9671934f3
+https://tv.vietanhtv.top/tv360/tv360.php?id=10022&expires=1789108592&token=7af963bccf20c464252e1b7924eece77
+
+#EXTINF:-1 tvg-id="tv360plus14" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_480_270.png", TV360+14
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus14&token=98b686ba8c65005af1fb96e9671934f3
+https://tv.vietanhtv.top/tv360/tv360.php?id=10023&expires=1789108592&token=4de7edd39bfecf1117d5d5aa35099f75
+
+#EXTINF:-1 tvg-id="tv360plus15" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778783528367/ddfa21d56253_480_270.png", TV360+15
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus15&token=98b686ba8c65005af1fb96e9671934f3
+https://tv.vietanhtv.top/tv360/tv360.php?id=10024&expires=1789108592&token=13eeb7223062389e8be6b84078b4edd5
+
+
 #EXTINF:-1 tvg-id="" tvg-name="4K: ZIGGO SPORT" group-title="Sports|4K(nhanh)",4K: ZIGGO SPORT
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544251&extension=ts&play_token=3A7UMOQ07K&sn2=
 
@@ -233,6 +337,9 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1697287&ex
 
 #EXTINF:-1 tvg-id="" tvg-name="4K: NOW SPORTS PREMIER LEAGUE" group-title="Sports|4K(nhanh)",4K: NOW SPORTS PREMIER LEAGUE
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1556135&extension=ts&play_token=YCbrmGfja&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: NOW SPORTS 2" group-title="Sports|4K(nhanh)",4K: NOW SPORTS 2
+http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:D2:EB:3E&stream=1579367&extension=ts&play_token=VqPV13vqvO
 
 #EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORTS MAIN EVENTS" group-title="Sports|4K(nhanh)",4K: SKY SPORTS MAIN EVENTS
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544239&extension=ts&play_token=q6WWbd6eLT&sn2=
@@ -273,32 +380,30 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544254&ex
 #EXTINF:-1 tvg-id="" tvg-name="4K: V SPORT" group-title="Sports|4K(nhanh)",4K: V SPORT
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=483974&extension=ts&play_token=giCDOcZrBD&sn2=
 
-# ==================== 4K| ᵁᴴᴰ ³⁸⁴⁰ᴾsport2 ====================
-#EXTINF:0 tvg-rec="0",Окко Футбол UHD
-#EXTGRP:4K| ᵁᴴᴰ ³⁸⁴⁰ᴾsport2
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/19430/index.m3u8
-#EXTINF:0 tvg-rec="0",Eurosport 2 UHD
-#EXTGRP:4K| ᵁᴴᴰ ³⁸⁴⁰ᴾsport2
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/19431/index.m3u8
-#EXTINF:0 tvg-rec="0",Eurosport 1 UHD
-#EXTGRP:4K| ᵁᴴᴰ ³⁸⁴⁰ᴾsport2
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/19432/index.m3u8
-#EXTINF:0 tvg-rec="3",Russian Extreme UHD
-#EXTGRP:4K| ᵁᴴᴰ ³⁸⁴⁰ᴾsport2
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/5003/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX SR Sport 4K HDR
-#EXTGRP:4K| ᵁᴴᴰ ³⁸⁴⁰ᴾsport2
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31455/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX SR Sport 1 Live 4K HDR
-#EXTGRP:4K| ᵁᴴᴰ ³⁸⁴⁰ᴾsport2
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31550/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX SR Sport 2 Live 4K HDR
-#EXTGRP:4K| ᵁᴴᴰ ³⁸⁴⁰ᴾsport2
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31551/index.m3u8
-#EXTINF:0 tvg-rec="0",Eleven Sports 1 4K PL
-#EXTGRP:4K| ᵁᴴᴰ ³⁸⁴⁰ᴾsport2
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/20068/index.m3u8
-#EXTM3U x-tvg-url="https://example.com/epg.xml" catchup="shift" catchup-days="7"
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="4K: CANAL+" group-title="Sports|4K(nhanh)",4K: CANAL+
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526135&extension=ts&play_token=QOYEftLLHe
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: RMC SPORT 2" group-title="Sports|4K(nhanh)",4K: RMC SPORT 2
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526122&extension=ts&play_token=rWGGg6hKBU
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: RMC SPORT 1" group-title="Sports|4K(nhanh)",4K: RMC SPORT 1
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526123&extension=ts&play_token=EAcYQUMSY8
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: BEIN SPORTS 3" group-title="Sports|4K(nhanh)",4K: BEIN SPORTS 3
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526124&extension=ts&play_token=jSQkjJ7QX9
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: BEIN SPORTS 2" group-title="Sports|4K(nhanh)",4K: BEIN SPORTS 2
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526125&extension=ts&play_token=uFevlHL6rh
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: BEIN SPORTS 1" group-title="Sports|4K(nhanh)",4K: BEIN SPORTS 1
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526126&extension=ts&play_token=tx4IV54hvs
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: CANAL+ FOOTBALL" group-title="Sports|4K(nhanh)",4K: CANAL+ FOOTBALL
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526129&extension=ts&play_token=kSQnUEuI5O
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: CANAL+ SPORT" group-title="Sports|4K(nhanh)",4K: CANAL+ SPORT
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526130&extension=ts&play_token=u4ZGSDkuST
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS HQ RAW" tvg-logo="https://example.com/logos/skysportsnews.png" group-title="SPORTS - SKY SPORTS",SKY SPORTS NEWS HQ RAW
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527641&extension=ts&play_token=aL3YJaPWe5&sn2=
@@ -344,6 +449,9 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527612&exte
 
 #EXTINF:-1 tvg-id="TNT.Sports4.uk" tvg-name="TNT SPORTS 4 HD" tvg-logo="https://example.com/logos/tntsport4.png" group-title="SPORTS - TNT SPORTS",TNT SPORTS 4 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527610&extension=ts&play_token=tkt0QGtmue&sn2=
+
+#EXTINF:-1 tvg-id="TNT.Sports5.uk" tvg-name="TNT SPORTS 5 HD" tvg-logo="https://example.com/logos/tntsport5.png" group-title="SPORTS - TNT SPORTS",TNT SPORTS 5 HD
+http://103.176.90.143:80/play/live.php?mac=00:1A:79:BF:F0:EF&stream=1004549&extension=ts&play_token=M5KyQV2OCZ
 
 #EXTINF:-1 tvg-id="Bein4K.me" tvg-name="BEIN 4K UHD" tvg-logo="https://example.com/logos/bein4k.png" group-title="SPORTS4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",BEIN 4K UHD 3840P NM
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1556138&extension=ts&play_token=iLuTsNOrTq&sn2=
@@ -398,190 +506,6 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=325027&exten
 
 #EXTINF:-1 tvg-id="BeinSports8.us" tvg-name="BEIN SPORTS 8 HD" tvg-logo="https://example.com/logos/beinsports8.png" group-title="SPORTS - US BEIN",US: BEIN SPORTS 8 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=325026&extension=ts&play_token=fL2DcvYVcD&sn2=
-
-# ==================== RusiaSports ====================
-#EXTINF:0 tvg-rec="3",Матч ТВ FHD
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2413/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Премьер FHD
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2414/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2407/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2420/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2408/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Игра FHD
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2406/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports FHD UA
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/272/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports+ FHD UA
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/5068/index.m3u
-#EXTINF:0 tvg-rec="3",KHL Prime FHD
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2403/index.m3u8
-#EXTINF:0 tvg-rec="3",Старт FHD
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2154/index.m3u8
-#EXTINF:0 tvg-rec="7",Sky Sport F1 FHD DE
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/10079/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Max 1 FHD TR
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/19062/index.m3u8
-#EXTINF:0 tvg-rec="0",TRT Spor FHD TR
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/19068/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 1 FHD PT
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/19158/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 FHD KZ
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/20065/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Moldova FHD
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/20074/index.m3u8
-#EXTINF:0 tvg-rec="0",Fast Sports FHD AM
-#EXTGRP:RusiaSports
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/30199/index.m3u8
-#EXTINF:0 tvg-rec="3",M+ Deportes ES
-#EXTGRP:Group | Deportes
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/6070/index.m3u8
-#EXTINF:0 tvg-rec="0",M+ Deportes HD ES
-#EXTGRP:Group | Deportes
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31830/index.m3u8
-#EXTINF:0 tvg-rec="0",M+ Deportes 2 HD ES
-#EXTGRP:Group | Deportes
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31835/index.m3u8
-#EXTINF:0 tvg-rec="0",M+ Deportes 3 HD ES
-#EXTGRP:Group | Deportes
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31849/index.m3u8
-#EXTINF:0 tvg-rec="0",M+ Deportes 4 HD ES
-#EXTGRP:Group | Deportes
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31850/index.m3u8
-#EXTINF:0 tvg-rec="0",M+ Deportes 5 HD ES
-#EXTGRP:Group | Deportes
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31851/index.m3u8
-#EXTINF:0 tvg-rec="0",M+ Deportes 6 HD ES
-#EXTGRP:Group | Deportes
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31874/index.m3u8
-#EXTINF:0 tvg-rec="0",ESPN Deportes HD US
-#EXTGRP:Group | Deportes
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/30063/index.m3u8
-#EXTINF:0 tvg-rec="0",Fox Deportes HD US
-#EXTGRP:Group | Deportes
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/30075/index.m3u8
-#EXTINF:0 tvg-rec="0",Fox News HD US
-#EXTGRP:Group | Deportes
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/30076/index.m3u8
-#EXTINF:0 tvg-rec="0",Fox Sports 2 US
-#EXTGRP:Group | Deportes
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/30078/index.m3u8
-# ==================== Polsat Sport ====================
-#EXTINF:0 tvg-rec="0",Polsat Sport 3 HD PL
-#EXTGRP:Group | Polsat Sport
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/7303/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat Sport Premium 1 HD PL
-#EXTGRP:Group | Polsat Sport
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/7304/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat Sport Premium 2 HD PL
-#EXTGRP:Group | Polsat Sport
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/7305/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat Sport Extra 3 HD PL
-#EXTGRP:Group | Polsat Sport
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/7306/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat Sport Extra 4 HD PL
-#EXTGRP:Group | Polsat Sport
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/7307/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat Sport 2 HD PL
-#EXTGRP:Group | Polsat Sport
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/7308/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat Sport Extra 2 HD PL
-#EXTGRP:Group | Polsat Sport
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/7309/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat Sport Extra 1 HD PL
-#EXTGRP:Group | Polsat Sport
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/7310/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat Sport Fight HD PL
-#EXTGRP:Group | Polsat Sport
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/7311/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat Sport 1 HD PL
-#EXTGRP:Group | Polsat Sport
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/7296/index.m3u8
-# ==================== DAZN ====================
-#EXTINF:0 tvg-rec="0",DAZN 1 FHD PT
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/19158/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 1 HD DE
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/19042/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 2 HD DE
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/19043/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN F1 ES
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/6071/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 1 Bar HD ES
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31831/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 2 Bar HD ES
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31832/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN F1 HD ES
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31834/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN LaLiga 2 HD ES
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31855/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN LaLiga HD ES
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31856/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 3 Bar HD ES
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31861/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 4 Bar HD ES
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31862/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 1 HD PT
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2531/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 2 FHD PT
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2532/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 4 FHD PT
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2534/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 5 FHD PT
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2535/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 6 FHD PT
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2536/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 3 FHD PT
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/7062/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 1 PT
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31954/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 2 HD PT
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31955/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 3 HD PT
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31956/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 4 HD PT
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31957/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 5 HD PT
-#EXTGRP:Group | DAZN
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/31958/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DAZN",DAZN 1 UHD
@@ -960,9 +884,5 @@ http://raztv.online/live/904372067536241/RCXPgbYzpR/1412564.ts
 http://raztv.online/live/904372067536241/RCXPgbYzpR/1412565.ts
 #EXTINF:-1 tvg-id="" tvg-name="VIP - ИНСАЙТ 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K ENTERTAINMENT CHANNELS",VIP - ИНСАЙТ 4K
 http://raztv.online/live/904372067536241/RCXPgbYzpR/1281061.ts
-# ===== 4K CANAL+  =====
-#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="VIP - CANAL+ 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K CANAL+",VIP - CANAL+ 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1281086.ts
-#EXTINF:-1 tvg-id="01tv.fr" tvg-name="VIP - CANAL+ BOX OFFICE 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K CANAL+",VIP - CANAL+ BOX OFFICE 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1281448.ts
+
 
