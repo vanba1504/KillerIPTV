@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
+#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #-------------------VTV|FPT-------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV|FPT" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
 udp://@225.1.2.249:30120
