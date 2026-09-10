@@ -1,156 +1,156 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
-#-------------------VTV-------------------#
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1 (HD 8Mbps)
+#-------------------VTV-THVN-------------------#
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1 (HD 8Mbps)
 udp://@225.1.2.249:30120
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV2.png",VTV2 (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV2.png",VTV2 (HD 8Mbps)
 udp://@225.1.2.13:30120
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV3.png",VTV3 (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV3.png",VTV3 (HD 8Mbps)
 udp://@225.1.2.247:30120
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV4.png",VTV4 (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV4.png",VTV4 (HD 8Mbps)
 udp://@225.1.2.20:30120
-#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today (HD 8Mbps)
+#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today (HD 8Mbps)
 udp://@225.1.2.190:30120
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5.png",VTV5 (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5.png",VTV5 (HD 8Mbps)
 udp://@225.1.1.131:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TNB.png",VTV5 Tây Nam Bộ (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TNB.png",VTV5 Tây Nam Bộ (HD 8Mbps)
 udp://@225.1.2.236:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TN.png",VTV5 Tây Nguyên (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TN.png",VTV5 Tây Nguyên (HD 8Mbps)
 udp://@225.1.1.108:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 (HD 8Mbps)
 udp://@225.1.2.154:30120
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV7.png",VTV7 (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV7.png",VTV7 (HD 8Mbps)
 udp://@225.1.2.96:30120
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV8.png",VTV8 (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV8.png",VTV8 (HD 8Mbps)
 udp://@225.1.2.166:30120
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV9.png",VTV9 (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV9.png",VTV9 (HD 8Mbps)
 udp://@225.1.1.128:30120
-#EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10 (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv10hd" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10 (HD 8Mbps)
 udp://@225.1.2.245:30120
 
-#-------------------FPT Service-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 10
+#-------------------Sự kiện FPT-------------------#
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 10
 udp://@225.1.1.10:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 12
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 12
 udp://@225.1.1.12:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 15
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 15
 udp://@225.1.1.15:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 17
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 17
 udp://@225.1.1.17:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 20
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 20
 udp://@225.1.1.20:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 27
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 27
 udp://@225.1.1.27:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 28
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 28
 udp://@225.1.1.28:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 30
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 30
 udp://@225.1.1.30:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 31
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 31
 udp://@225.1.1.31:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 32
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 32
 udp://@225.1.1.32:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 33
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 33
 udp://@225.1.1.33:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 34
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 34
 udp://@225.1.1.34:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 35
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 35
 udp://@225.1.1.35:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 37
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 37
 udp://@225.1.1.37:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 38
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 38
 udp://@225.1.1.38:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 48
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 48
 udp://@225.1.1.48:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 49
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 49
 udp://@225.1.1.49:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 50
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 50
 udp://@225.1.1.50:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 51
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 51
 udp://@225.1.1.51:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 52
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 52
 udp://@225.1.1.52:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 53
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 53
 udp://@225.1.1.53:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 54
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 54
 udp://@225.1.1.54:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 55
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 55
 udp://@225.1.1.55:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 56
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 56
 udp://@225.1.1.56:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 57
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 57
 udp://@225.1.1.57:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 58
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 58
 udp://@225.1.1.58:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 59
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 59
 udp://@225.1.1.59:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 68
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 68
 udp://@225.1.1.68:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 69
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 69
 udp://@225.1.1.69:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 70
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 70
 udp://@225.1.1.70:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 71
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 71
 udp://@225.1.1.71:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 72
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 72
 udp://@225.1.1.72:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 78
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 78
 udp://@225.1.1.78:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 79
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 79
 udp://@225.1.1.79:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 80
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 80
 udp://@225.1.1.80:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 81
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 81
 udp://@225.1.1.81:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 82
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 82
 udp://@225.1.1.82:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 83
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 83
 udp://@225.1.1.83:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 84
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 84
 udp://@225.1.1.84:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 85
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 85
 udp://@225.1.1.85:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 86
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 86
 udp://@225.1.1.86:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 87
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 87
 udp://@225.1.1.87:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 88
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 88
 udp://@225.1.1.88:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 92
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 92
 udp://@225.1.1.92:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 93
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 93
 udp://@225.1.1.93:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 94
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 94
 udp://@225.1.1.94:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 95
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 95
 udp://@225.1.1.95:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 96
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 96
 udp://@225.1.1.96:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 97
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 97
 udp://@225.1.1.97:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 100
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 100
 udp://@225.1.1.100:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 101
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 101
 udp://@225.1.1.101:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 48 (H265 FHD)
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 48 (H265 FHD)
 udp://@225.1.2.48:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 50 (H265 FHD)
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 50 (H265 FHD)
 udp://@225.1.2.50:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 53 (H265 FHD)
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 53 (H265 FHD)
 udp://@225.1.2.53:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 57 (H265 FHD)
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 57 (H265 FHD)
 udp://@225.1.2.57:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 58 (H265 FHD)
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 58 (H265 FHD)
 udp://@225.1.2.58:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 82 (H265 FHD)	
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 82 (H265 FHD)	
 udp://@225.1.2.82:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 84 (H265 FHD)
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 84 (H265 FHD)
 udp://@225.1.2.84:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 150 (H265 UHD)
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 150 (H265 UHD)
 udp://@225.1.2.150:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 152 (H265 UHD)
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 152 (H265 UHD)
 udp://@225.1.2.152:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 153 (H265 UHD)
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 153 (H265 UHD)
 udp://@225.1.2.153:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 203 (H265 UHD)
+#EXTINF:0 tvg-id="" group-title="Sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 203 (H265 UHD)
 udp://@225.1.2.203:30120
 #-------------------Quốc Tế (HD)| FPT-------------------#
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)| FPT" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
@@ -319,140 +319,184 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=10023&expires=1789108592&token=4de7e
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus15&token=98b686ba8c65005af1fb96e9671934f3
 https://tv.vietanhtv.top/tv360/tv360.php?id=10024&expires=1789108592&token=13eeb7223062389e8be6b84078b4edd5
 
+#-------------------THỂ THAO|4K ULTRA HD-------------------#
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: ZIGGO SPORT" group-title="Sports|4K(nhanh)",4K: ZIGGO SPORT
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544251&extension=ts&play_token=3A7UMOQ07K&sn2=
-
-#EXTINF:-1 tvg-id="" tvg-name="4K: ESPN" group-title="Sports|4K(nhanh)",4K: ESPN
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544250&extension=ts&play_token=NvSl2Dr2Ds&sn2=
-
-#EXTINF:-1 tvg-id="" tvg-name="4K: SPORTSNET 360" group-title="Sports|4K(nhanh)",4K: SPORTSNET 360
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544249&extension=ts&play_token=cl8mTWCT2M&sn2=
-
-#EXTINF:-1 tvg-id="" tvg-name="4K: BEIN 4K" group-title="Sports|4K(nhanh)",4K: BEIN 4K
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1556138&extension=ts&play_token=hjfGrv1nB4&sn2=
-
-#EXTINF:-1 tvg-id="" tvg-name="4K: BEIN 4K (EVENT ONLY)" group-title="Sports|4K(nhanh)",4K: BEIN 4K (EVENT ONLY)
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1697287&extension=ts&play_token=R9Zc6WOXSK&sn2=
-
-#EXTINF:-1 tvg-id="" tvg-name="4K: NOW SPORTS PREMIER LEAGUE" group-title="Sports|4K(nhanh)",4K: NOW SPORTS PREMIER LEAGUE
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1556135&extension=ts&play_token=YCbrmGfja&sn2=
-
-#EXTINF:-1 tvg-id="" tvg-name="4K: NOW SPORTS 2" group-title="Sports|4K(nhanh)",4K: NOW SPORTS 2
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:D2:EB:3E&stream=1579367&extension=ts&play_token=VqPV13vqvO
-
-#EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORTS MAIN EVENTS" group-title="Sports|4K(nhanh)",4K: SKY SPORTS MAIN EVENTS
+#EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORTS MAIN EVENTS" group-title="THỂ THAO|4K ULTRA HD",4K: SKY SPORTS MAIN EVENTS
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544239&extension=ts&play_token=q6WWbd6eLT&sn2=
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORT (LIVE-EVENT)" group-title="Sports|4K(nhanh)",4K: SKY SPORT (LIVE-EVENT)
+#EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORT (LIVE-EVENT)" group-title="THỂ THAO|4K ULTRA HD",4K: SKY SPORT (LIVE-EVENT)
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544238&extension=ts&play_token=93Jisok31A&sn2=
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORTS (EVENT)" group-title="Sports|4K(nhanh)",4K: SKY SPORTS (EVENT)
+#EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORTS (EVENT)" group-title="THỂ THAO|4K ULTRA HD",4K: SKY SPORTS (EVENT)
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544240&extension=ts&play_token=BYPax3YMgs&sn2=
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORTS F1" group-title="Sports|4K(nhanh)",4K: SKY SPORTS F1
+#EXTINF:-1 tvg-id="" tvg-name="4K: ESPN" group-title="THỂ THAO|4K ULTRA HD",4K: ESPN
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544250&extension=ts&play_token=NvSl2Dr2Ds&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: SPORTSNET 360" group-title="THỂ THAO|4K ULTRA HD",4K: SPORTSNET 360
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544249&extension=ts&play_token=cl8mTWCT2M&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: BEIN 4K" group-title="THỂ THAO|4K ULTRA HD",4K: BEIN 4K
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1556138&extension=ts&play_token=hjfGrv1nB4&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: BEIN 4K (EVENT ONLY)" group-title="THỂ THAO|4K ULTRA HD",4K: BEIN 4K (EVENT ONLY)
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1697287&extension=ts&play_token=R9Zc6WOXSK&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: NOW SPORTS PREMIER LEAGUE" group-title="THỂ THAO|4K ULTRA HD",4K: NOW SPORTS PREMIER LEAGUE
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1556135&extension=ts&play_token=YCbrmGfja&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: NOW SPORTS 2" group-title="THỂ THAO|4K ULTRA HD",4K: NOW SPORTS 2
+http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:D2:EB:3E&stream=1579367&extension=ts&play_token=VqPV13vqvO
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORTS F1" group-title="THỂ THAO|4K ULTRA HD",4K: SKY SPORTS F1
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544243&extension=ts&play_token=5db6KIUIG3&sn2=
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORTS DARTS" group-title="Sports|4K(nhanh)",4K: SKY SPORTS DARTS
+#EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORTS DARTS" group-title="THỂ THAO|4K ULTRA HD",4K: SKY SPORTS DARTS
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544244&extension=ts&play_token=HGNRdHCoyV&sn2=
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: TNT ULTIMATE (LIVE-EVENT)" group-title="Sports|4K(nhanh)",4K: TNT ULTIMATE (LIVE-EVENT)
+#EXTINF:-1 tvg-id="" tvg-name="4K: TNT ULTIMATE (LIVE-EVENT)" group-title="THỂ THAO|4K ULTRA HD",4K: TNT ULTIMATE (LIVE-EVENT)
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544246&extension=ts&play_token=02xBYN49OP&sn2=
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: TNT SPORTS (EVENT)" group-title="Sports|4K(nhanh)",4K: TNT SPORTS (EVENT)
+#EXTINF:-1 tvg-id="" tvg-name="4K: TNT SPORTS (EVENT)" group-title="THỂ THAO|4K ULTRA HD",4K: TNT SPORTS (EVENT)
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544247&extension=ts&play_token=LxGd7Mxqmq&sn2=
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: YES SPORT 5" group-title="Sports|4K(nhanh)",4K: YES SPORT 5
+#EXTINF:-1 tvg-id="" tvg-name="VIP - TSN WEST 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",VIP - TSN WEST 4K
+http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1431827.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="4K: YES SPORT 5" group-title="THỂ THAO|4K ULTRA HD",4K: YES SPORT 5
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=483972&extension=ts&play_token=aFPiiS0wxy&sn2=
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: ELEVEN SPORTS 1" group-title="Sports|4K(nhanh)",4K: ELEVEN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="4K: ELEVEN SPORTS 1" group-title="THỂ THAO|4K ULTRA HD",4K: ELEVEN SPORTS 1
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=483973&extension=ts&play_token=waCzvFXUSL&sn2=
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: ELEVEN SPORTS PL" group-title="Sports|4K(nhanh)",4K: ELEVEN SPORTS PL
+#EXTINF:-1 tvg-id="" tvg-name="4K: ELEVEN SPORTS PL" group-title="THỂ THAO|4K ULTRA HD",4K: ELEVEN SPORTS PL
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544301&extension=ts&play_token=FopBETWaOu&sn2=
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: ELEVEN PL" group-title="Sports|4K(nhanh)",4K: ELEVEN PL
+#EXTINF:-1 tvg-id="" tvg-name="4K: ELEVEN PL" group-title="THỂ THAO|4K ULTRA HD",4K: ELEVEN PL
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1545807&extension=ts&play_token=vbWSTTJVtU&sn2=
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: V SPORT +" group-title="Sports|4K(nhanh)",4K: V SPORT +
+#EXTINF:-1 tvg-id="" tvg-name="4K: V SPORT +" group-title="THỂ THAO|4K ULTRA HD",4K: V SPORT +
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544254&extension=ts&play_token=41Kjny5DiK&sn2=
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: V SPORT" group-title="Sports|4K(nhanh)",4K: V SPORT
+#EXTINF:-1 tvg-id="" tvg-name="4K: V SPORT" group-title="THỂ THAO|4K ULTRA HD",4K: V SPORT
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=483974&extension=ts&play_token=giCDOcZrBD&sn2=
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="4K: CANAL+" group-title="Sports|4K(nhanh)",4K: CANAL+
+#EXTINF:-1 tvg-id="" tvg-name="4K: CANAL+" group-title="THỂ THAO|4K ULTRA HD",4K: CANAL+
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526135&extension=ts&play_token=QOYEftLLHe
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: RMC SPORT 2" group-title="Sports|4K(nhanh)",4K: RMC SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="4K: RMC SPORT 2" group-title="THỂ THAO|4K ULTRA HD",4K: RMC SPORT 2
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526122&extension=ts&play_token=rWGGg6hKBU
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: RMC SPORT 1" group-title="Sports|4K(nhanh)",4K: RMC SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="4K: RMC SPORT 1" group-title="THỂ THAO|4K ULTRA HD",4K: RMC SPORT 1
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526123&extension=ts&play_token=EAcYQUMSY8
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: BEIN SPORTS 3" group-title="Sports|4K(nhanh)",4K: BEIN SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="4K: BEIN SPORTS 3" group-title="THỂ THAO|4K ULTRA HD",4K: BEIN SPORTS 3
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526124&extension=ts&play_token=jSQkjJ7QX9
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: BEIN SPORTS 2" group-title="Sports|4K(nhanh)",4K: BEIN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="4K: BEIN SPORTS 2" group-title="THỂ THAO|4K ULTRA HD",4K: BEIN SPORTS 2
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526125&extension=ts&play_token=uFevlHL6rh
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: BEIN SPORTS 1" group-title="Sports|4K(nhanh)",4K: BEIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="4K: BEIN SPORTS 1" group-title="THỂ THAO|4K ULTRA HD",4K: BEIN SPORTS 1
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526126&extension=ts&play_token=tx4IV54hvs
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: CANAL+ FOOTBALL" group-title="Sports|4K(nhanh)",4K: CANAL+ FOOTBALL
+#EXTINF:-1 tvg-id="" tvg-name="4K: CANAL+ FOOTBALL" group-title="THỂ THAO|4K ULTRA HD",4K: CANAL+ FOOTBALL
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526129&extension=ts&play_token=kSQnUEuI5O
 
-#EXTINF:-1 tvg-id="" tvg-name="4K: CANAL+ SPORT" group-title="Sports|4K(nhanh)",4K: CANAL+ SPORT
+#EXTINF:-1 tvg-id="" tvg-name="4K: CANAL+ SPORT" group-title="THỂ THAO|4K ULTRA HD",4K: CANAL+ SPORT
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B7:29:63&stream=526130&extension=ts&play_token=u4ZGSDkuST
 
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS HQ RAW" tvg-logo="https://example.com/logos/skysportsnews.png" group-title="SPORTS - SKY SPORTS",SKY SPORTS NEWS HQ RAW
+#EXTINF:-1 tvg-id="bluesport1.ch" tvg-name="VIP - BLUE SPORT 1 LIVE 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",VIP - BLUE SPORT 1 LIVE 4K
+http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1281087.ts
+
+#EXTINF:-1 tvg-id="bluesport2.ch" tvg-name="VIP - BLUE SPORT 2 LIVE 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",VIP - BLUE SPORT 2 LIVE 4K
+http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1281088.ts
+
+#EXTINF:-1 tvg-id="bluesport3.ch" tvg-name="VIP - BLUE SPORT 3 LIVE 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",VIP - BLUE SPORT 3 LIVE 4K
+http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1281089.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="VIP - BLUE SPORT 4 LIVE 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",VIP - BLUE SPORT 4 LIVE 4K
+http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1281090.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="VIP - CANAL+ POLAND 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",VIP - CANAL+ POLAND 4K
+http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1412559.ts
+
+#EXTINF:-1 tvg-id="FoxSports1.4k.us" tvg-name="FOX SPORTS 1 4K" tvg-logo="https://example.com/logos/foxsports1.png" group-title="THỂ THAO|4K ULTRA HD",US: FOX SPORTS 1 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=429590&extension=ts&play_token=zgwD8zN8hu&sn2=
+
+#EXTINF:-1 tvg-id="FoxSports2.4k.us" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://example.com/logos/foxsports2.png" group-title="THỂ THAO|4K ULTRA HD",US: FOX SPORTS 2 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=429589&extension=ts&play_token=X8h9u1uzU6&sn2=
+
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="VIP - MOVISTAR LALIGA 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",VIP - MOVISTAR LALIGA 4K
+http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1425366.ts
+
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="VIP - MOVISTAR LALIGA 2 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",VIP - MOVISTAR LALIGA 2 4K
+http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1425367.ts
+
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="VIP - MOVISTAR LIGA DE CAMPEONES 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",VIP - MOVISTAR LIGA DE CAMPEONES 4K
+http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1425368.ts
+
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="VIP - MOVISTAR LIGA DE CAMPEONES 2 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",VIP - MOVISTAR LIGA DE CAMPEONES 2 4K
+http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1425369.ts
+
+
+
+#-------------------ZIGGO SPORT-------------------#
+#EXTINF:-1 tvg-id="" tvg-name="4K: ZIGGO SPORT" group-title="ZIGGO SPORT",4K: ZIGGO SPORT
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544251&extension=ts&play_token=3A7UMOQ07K&sn2=
+
+
+#-------------------SKY SPORTS-------------------#
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS HQ RAW" tvg-logo="https://example.com/logos/skysportsnews.png" group-title="SKY SPORTS",SKY SPORTS NEWS HQ RAW
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527641&extension=ts&play_token=aL3YJaPWe5&sn2=
 
-#EXTINF:-1 tvg-id="SkySportsNewsHD.uk" tvg-name="SKY SPORTS NEWS HQ HD" tvg-logo="https://example.com/logos/skysportsnews.png" group-title="SPORTS - SKY SPORTS",SKY SPORTS NEWS HQ HD
+#EXTINF:-1 tvg-id="SkySportsNewsHD.uk" tvg-name="SKY SPORTS NEWS HQ HD" tvg-logo="https://example.com/logos/skysportsnews.png" group-title="SKY SPORTS",SKY SPORTS NEWS HQ HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527640&extension=ts&play_token=V49Q8HZYlF&sn2=
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT HD" tvg-logo="https://example.com/logos/skysportsmainevent.png" group-title="SPORTS - SKY SPORTS",SKY SPORTS MAIN EVENT HD
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT HD" tvg-logo="https://example.com/logos/skysportsmainevent.png" group-title="SKY SPORTS",SKY SPORTS MAIN EVENT HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527638&extension=ts&play_token=WwPKDvoKKt&sn2=
 
-#EXTINF:-1 tvg-id="SkySportsPL.uk" tvg-name="SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://example.com/logos/skysportspl.png" group-title="SPORTS - SKY SPORTS",SKY SPORTS PREMIER LEAGUE HD
+#EXTINF:-1 tvg-id="SkySportsPL.uk" tvg-name="SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://example.com/logos/skysportspl.png" group-title="SKY SPORTS",SKY SPORTS PREMIER LEAGUE HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527636&extension=ts&play_token=9zOQthVQTk&sn2=
 
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL HD" tvg-logo="https://example.com/logos/skysportsfootball.png" group-title="SPORTS - SKY SPORTS",SKY SPORTS FOOTBALL HD
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL HD" tvg-logo="https://example.com/logos/skysportsfootball.png" group-title="SKY SPORTS",SKY SPORTS FOOTBALL HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527634&extension=ts&play_token=JneHNkTAPR&sn2=
 
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1 HD" tvg-logo="https://example.com/logos/skysportsf1.png" group-title="SPORTS - SKY SPORTS",SKY SPORTS F1 HD
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1 HD" tvg-logo="https://example.com/logos/skysportsf1.png" group-title="SKY SPORTS",SKY SPORTS F1 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527632&extension=ts&play_token=Yo1zmjhbk7&sn2=
 
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="SKY SPORTS RACING HD" tvg-logo="https://example.com/logos/skysportsracing.png" group-title="SPORTS - SKY SPORTS",SKY SPORTS RACING HD
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="SKY SPORTS RACING HD" tvg-logo="https://example.com/logos/skysportsracing.png" group-title="SKY SPORTS",SKY SPORTS RACING HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527630&extension=ts&play_token=tMYUiRiXd7&sn2=
 
-#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="SKY SPORTS TENNIS HD" tvg-logo="https://example.com/logos/skysportstennis.png" group-title="SPORTS - SKY SPORTS",SKY SPORTS TENNIS HD
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="SKY SPORTS TENNIS HD" tvg-logo="https://example.com/logos/skysportstennis.png" group-title="SKY SPORTS",SKY SPORTS TENNIS HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527628&extension=ts&play_token=SAwO9pDhOp&sn2=
 
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION HD" tvg-logo="https://example.com/logos/skysportsaction.png" group-title="SPORTS - SKY SPORTS",SKY SPORTS ACTION HD
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION HD" tvg-logo="https://example.com/logos/skysportsaction.png" group-title="SKY SPORTS",SKY SPORTS ACTION HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527626&extension=ts&play_token=n1Qdv95P7g&sn2=
 
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX HD" tvg-logo="https://example.com/logos/skysportsmix.png" group-title="SPORTS - SKY SPORTS",SKY SPORTS MIX HD
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX HD" tvg-logo="https://example.com/logos/skysportsmix.png" group-title="SKY SPORTS",SKY SPORTS MIX HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527620&extension=ts&play_token=anaDe5Ka17&sn2=
 
-#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="SKY SPORTS+ HD" tvg-logo="https://example.com/logos/skysportsplus.png" group-title="SPORTS - SKY SPORTS",SKY SPORTS+ HD
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="SKY SPORTS+ HD" tvg-logo="https://example.com/logos/skysportsplus.png" group-title="SKY SPORTS",SKY SPORTS+ HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527618&extension=ts&play_token=6YXQKAgJiQ&sn2=
 
-#EXTINF:-1 tvg-id="TNT.Sport1.uk" tvg-name="TNT SPORT 1 HD" tvg-logo="https://example.com/logos/tntsport1.png" group-title="SPORTS - TNT SPORTS",TNT SPORT 1 HD
+#-------------------TNT SPORTS-------------------#
+#EXTINF:-1 tvg-id="TNT.Sport1.uk" tvg-name="TNT SPORT 1 HD" tvg-logo="https://example.com/logos/tntsport1.png" group-title="TNT SPORTS",TNT SPORT 1 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527616&extension=ts&play_token=NlaeqYNH7q&sn2=
 
-#EXTINF:-1 tvg-id="TNT.Sport2.uk" tvg-name="TNT SPORT 2 HD" tvg-logo="https://example.com/logos/tntsport2.png" group-title="SPORTS - TNT SPORTS",TNT SPORT 2 HD
+#EXTINF:-1 tvg-id="TNT.Sport2.uk" tvg-name="TNT SPORT 2 HD" tvg-logo="https://example.com/logos/tntsport2.png" group-title="TNT SPORTS",TNT SPORT 2 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527614&extension=ts&play_token=r5jxsLMzRS&sn2=
 
-#EXTINF:-1 tvg-id="TNT.Sport3.uk" tvg-name="TNT SPORT 3 HD" tvg-logo="https://example.com/logos/tntsport3.png" group-title="SPORTS - TNT SPORTS",TNT SPORT 3 HD
+#EXTINF:-1 tvg-id="TNT.Sport3.uk" tvg-name="TNT SPORT 3 HD" tvg-logo="https://example.com/logos/tntsport3.png" group-title="TNT SPORTS",TNT SPORT 3 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527612&extension=ts&play_token=oOocBdnytf&sn2=
 
-#EXTINF:-1 tvg-id="TNT.Sports4.uk" tvg-name="TNT SPORTS 4 HD" tvg-logo="https://example.com/logos/tntsport4.png" group-title="SPORTS - TNT SPORTS",TNT SPORTS 4 HD
+#EXTINF:-1 tvg-id="TNT.Sports4.uk" tvg-name="TNT SPORTS 4 HD" tvg-logo="https://example.com/logos/tntsport4.png" group-title="TNT SPORTS",TNT SPORTS 4 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527610&extension=ts&play_token=tkt0QGtmue&sn2=
 
-#EXTINF:-1 tvg-id="TNT.Sports5.uk" tvg-name="TNT SPORTS 5 HD" tvg-logo="https://example.com/logos/tntsport5.png" group-title="SPORTS - TNT SPORTS",TNT SPORTS 5 HD
+#EXTINF:-1 tvg-id="TNT.Sports5.uk" tvg-name="TNT SPORTS 5 HD" tvg-logo="https://example.com/logos/tntsport5.png" group-title="TNT SPORTS",TNT SPORTS 5 HD
 http://103.176.90.143:80/play/live.php?mac=00:1A:79:BF:F0:EF&stream=1004549&extension=ts&play_token=M5KyQV2OCZ
 
+
+#-------------------SPORTS4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ-------------------#
 #EXTINF:-1 tvg-id="Bein4K.me" tvg-name="BEIN 4K UHD" tvg-logo="https://example.com/logos/bein4k.png" group-title="SPORTS4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",BEIN 4K UHD 3840P NM
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1556138&extension=ts&play_token=iLuTsNOrTq&sn2=
 
@@ -477,100 +521,97 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1545807&exte
 #EXTINF:-1 tvg-id="VSport.4k.no" tvg-name="V SPORT UHD" tvg-logo="https://example.com/logos/vsport.png" group-title="SPORTS4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",V SPORT UHD 3840P
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=483974&extension=ts&play_token=gWTtGxwnos&sn2=
 
-#EXTINF:-1 tvg-id="FoxSports1.4k.us" tvg-name="FOX SPORTS 1 4K" tvg-logo="https://example.com/logos/foxsports1.png" group-title="SPORTS - US",US: FOX SPORTS 1 4K
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=429590&extension=ts&play_token=zgwD8zN8hu&sn2=
 
-#EXTINF:-1 tvg-id="FoxSports2.4k.us" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://example.com/logos/foxsports2.png" group-title="SPORTS - US",US: FOX SPORTS 2 4K
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=429589&extension=ts&play_token=X8h9u1uzU6&sn2=
-
-#EXTINF:-1 tvg-id="PremierLeague.raw.us" tvg-name="PREMIER LEAGUE RAW" tvg-logo="https://example.com/logos/pl.png" group-title="SPORTS - US",US: PREMIER LEAGUE RAW
+#-------------------BEIN sports|USA-------------------#
+#EXTINF:-1 tvg-id="PremierLeague.raw.us" tvg-name="PREMIER LEAGUE RAW" tvg-logo="https://example.com/logos/pl.png" group-title="BEIN sports|USA",US: PREMIER LEAGUE RAW
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1860593&extension=ts&play_token=329WP4XFDn&sn2=
 
-#EXTINF:-1 tvg-id="BeinSports.us" tvg-name="BEIN SPORTS HD" tvg-logo="https://example.com/logos/beinsports.png" group-title="SPORTS - US BEIN",US: BEIN SPORTS HD
+#EXTINF:-1 tvg-id="BeinSports.us" tvg-name="BEIN SPORTS HD" tvg-logo="https://example.com/logos/beinsports.png" group-title="BEIN sports|USA",US: BEIN SPORTS HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=325025&extension=ts&play_token=Ka3G2WQwbV&sn2=
 
-#EXTINF:-1 tvg-id="BeinSports2.us" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://example.com/logos/beinsports2.png" group-title="SPORTS - US BEIN",US: BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="BeinSports2.us" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://example.com/logos/beinsports2.png" group-title="BEIN sports|USA",US: BEIN SPORTS 2 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=325031&extension=ts&play_token=zLgFuzWmLb&sn2=
 
-#EXTINF:-1 tvg-id="BeinSports4.us" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://example.com/logos/beinsports4.png" group-title="SPORTS - US BEIN",US: BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-id="BeinSports4.us" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://example.com/logos/beinsports4.png" group-title="BEIN sports|USA",US: BEIN SPORTS 4 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=325030&extension=ts&play_token=vyQyKH7LhC&sn2=
 
-#EXTINF:-1 tvg-id="BeinSports5.us" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://example.com/logos/beinsports5.png" group-title="SPORTS - US BEIN",US: BEIN SPORTS 5 HD
+#EXTINF:-1 tvg-id="BeinSports5.us" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://example.com/logos/beinsports5.png" group-title="BEIN sports|USA",US: BEIN SPORTS 5 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=325029&extension=ts&play_token=SOGokb05bi&sn2=
 
-#EXTINF:-1 tvg-id="BeinSports6.us" tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://example.com/logos/beinsports6.png" group-title="SPORTS - US BEIN",US: BEIN SPORTS 6 HD
+#EXTINF:-1 tvg-id="BeinSports6.us" tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://example.com/logos/beinsports6.png" group-title="BEIN sports|USA",US: BEIN SPORTS 6 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=325028&extension=ts&play_token=qx07YiBxuA&sn2=
 
-#EXTINF:-1 tvg-id="BeinSports7.us" tvg-name="BEIN SPORTS 7 HD" tvg-logo="https://example.com/logos/beinsports7.png" group-title="SPORTS - US BEIN",US: BEIN SPORTS 7 HD
+#EXTINF:-1 tvg-id="BeinSports7.us" tvg-name="BEIN SPORTS 7 HD" tvg-logo="https://example.com/logos/beinsports7.png" group-title="BEIN sports|USA",US: BEIN SPORTS 7 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=325027&extension=ts&play_token=hm7mydJbNH&sn2=
 
-#EXTINF:-1 tvg-id="BeinSports8.us" tvg-name="BEIN SPORTS 8 HD" tvg-logo="https://example.com/logos/beinsports8.png" group-title="SPORTS - US BEIN",US: BEIN SPORTS 8 HD
+#EXTINF:-1 tvg-id="BeinSports8.us" tvg-name="BEIN SPORTS 8 HD" tvg-logo="https://example.com/logos/beinsports8.png" group-title="BEIN sports|USA",US: BEIN SPORTS 8 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=325026&extension=ts&play_token=fL2DcvYVcD&sn2=
 
-#EXTM3U
-#EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DAZN",DAZN 1 UHD
+#-------------------DAZN|Sports-------------------#
+#EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DAZN|Sports",DAZN 1 UHD
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/698216.ts
-#EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DAZN",DAZN 1 RAW
+#EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DAZN|Sports",DAZN 1 RAW
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/868045.ts
-#EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DAZN",DAZN 1 FHD
+#EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DAZN|Sports",DAZN 1 FHD
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/698215.ts
-#EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DAZN",DAZN 1 HD
+#EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DAZN|Sports",DAZN 1 HD
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/698217.ts
-#EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DAZN",DAZN 2 UHD
+#EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DAZN|Sports",DAZN 2 UHD
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/698220.ts
-#EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DAZN",DAZN 2 RAW
+#EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DAZN|Sports",DAZN 2 RAW
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/868046.ts
-#EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DAZN",DAZN 2 FHD
+#EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DAZN|Sports",DAZN 2 FHD
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/698223.ts
-#EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DAZN",DAZN 2 HD
+#EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DAZN|Sports",DAZN 2 HD
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/698224.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN BUNDESLIGA 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN BUNDESLIGA 1
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897895.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN BUNDESLIGA 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN BUNDESLIGA 2
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897894.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN BUNDESLIGA 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN BUNDESLIGA 3
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897893.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN BUNDESLIGA 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN BUNDESLIGA 4
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897892.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN BUNDESLIGA 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN BUNDESLIGA 5
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897891.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN LA LIGA 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN LA LIGA 1
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897890.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN LA LIGA 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN LA LIGA 2
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897889.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN LA LIGA 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN LA LIGA 3
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897888.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN LA LIGA 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN LA LIGA 4
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897887.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN LA LIGA 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN LA LIGA 5
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897886.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN SERIE A 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN SERIE A 1
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897885.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN SERIE A 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN SERIE A 2
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897884.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN SERIE A 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN SERIE A 3
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897883.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN SERIE A 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN SERIE A 4
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897882.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN SERIE A 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN SERIE A 5
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897881.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN LIGUE1 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN LIGUE1 1
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897880.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN LIGUE1 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN LIGUE1 2
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897879.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN LIGUE1 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN LIGUE1 3
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897878.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN LIGUE1 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN LIGUE1 4
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897877.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN LIGUE1 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN LIGUE1 5
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897876.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN",DAZN PPV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DAZN|Sports",DAZN PPV
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/1103133.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/sportdigital_fb.png" group-title="DAZN",DAZN SPORTDIGITAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/sportdigital_fb.png" group-title="DAZN|Sports",DAZN SPORTDIGITAL
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/1103132.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_1.png" group-title="DAZN",DAZN EUROSPORT 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_1.png" group-title="DAZN|Sports",DAZN EUROSPORT 1
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/1103131.ts
 
+# ===== VIP 4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ =====
 #EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="VIP - ELEVEN SPORTS 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP 4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",VIP - ELEVEN SPORTS 4K
 http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1281071.ts
 
@@ -627,21 +668,6 @@ http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1425368.ts
 
 #EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="VIP - MOVISTAR LIGA DE CAMPEONES 2 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP 4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",VIP - MOVISTAR LIGA DE CAMPEONES 2 4K
 http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1425369.ts
-
-#EXTINF:-1 tvg-id="bluesport1.ch" tvg-name="VIP - BLUE SPORT 1 LIVE 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP 4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",VIP - BLUE SPORT 1 LIVE 4K
-http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1281087.ts
-
-#EXTINF:-1 tvg-id="bluesport2.ch" tvg-name="VIP - BLUE SPORT 2 LIVE 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP 4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",VIP - BLUE SPORT 2 LIVE 4K
-http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1281088.ts
-
-#EXTINF:-1 tvg-id="bluesport3.ch" tvg-name="VIP - BLUE SPORT 3 LIVE 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP 4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",VIP - BLUE SPORT 3 LIVE 4K
-http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1281089.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="VIP - BLUE SPORT 4 LIVE 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP 4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",VIP - BLUE SPORT 4 LIVE 4K
-http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1281090.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="VIP - CANAL+ POLAND 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP 4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",VIP - CANAL+ POLAND 4K
-http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1412559.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="VIP - CANAL+ ÉVENEMENT 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP 4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",VIP - CANAL+ ÉVENEMENT 4K
 http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1281449.ts
@@ -825,32 +851,6 @@ http://raztv.online/live/904372067536241/RCXPgbYzpR/1281078.ts
 #EXTINF:-1 tvg-id="5sport4k.il" tvg-name="VIP - YES SPORT 5 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K SPORTS CHANNELS",VIP - YES SPORT 5 4K
 http://raztv.online/live/904372067536241/RCXPgbYzpR/1287087.ts
 
-# ===== 4K GENERAL CHANNELS =====
-#EXTINF:-1 tvg-id="tf1.fr" tvg-name="VIP - TF1 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K GENERAL CHANNELS",VIP - TF1 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1281445.ts
-#EXTINF:-1 tvg-id="france2.fr" tvg-name="VIP - FRANCE 2 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K GENERAL CHANNELS",VIP - FRANCE 2 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1281447.ts
-#EXTINF:-1 tvg-id="m6.fr" tvg-name="VIP - M6 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K GENERAL CHANNELS",VIP - M6 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1281446.ts
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="VIP - CNN 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K GENERAL CHANNELS",VIP - CNN 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1287086.ts
-#EXTINF:-1 tvg-id="la1.es" tvg-name="VIP - LA 1 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K GENERAL CHANNELS",VIP - LA 1 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1287088.ts
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="VIP - CANAL COCINA 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K GENERAL CHANNELS",VIP - CANAL COCINA 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1281077.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP - DECASA 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K GENERAL CHANNELS",VIP - DECASA 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1281080.ts
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="VIP - RAI 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K GENERAL CHANNELS",VIP - RAI 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1281054.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP - RTL 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K GENERAL CHANNELS",VIP - RTL 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1281058.ts
-#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="VIP - TRT 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K GENERAL CHANNELS",VIP - TRT 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1436349.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP - PRO7SAT 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K GENERAL CHANNELS",VIP - PRO7SAT 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1281057.ts
-#EXTINF:-1 tvg-id="fashiontv.fr" tvg-name="VIP - FASHION TV 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K GENERAL CHANNELS",VIP - FASHION TV 4K
-http://raztv.online/live/904372067536241/RCXPgbYzpR/1281429.ts
-
 # ===== 4K ENTERTAINMENT CHANNELS =====
 #EXTINF:-1 tvg-id="" tvg-name="VIP - FUNBOX 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K ENTERTAINMENT CHANNELS",VIP - FUNBOX 4K
 http://raztv.online/live/904372067536241/RCXPgbYzpR/1412561.ts
@@ -884,5 +884,3 @@ http://raztv.online/live/904372067536241/RCXPgbYzpR/1412564.ts
 http://raztv.online/live/904372067536241/RCXPgbYzpR/1412565.ts
 #EXTINF:-1 tvg-id="" tvg-name="VIP - ИНСАЙТ 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K ENTERTAINMENT CHANNELS",VIP - ИНСАЙТ 4K
 http://raztv.online/live/904372067536241/RCXPgbYzpR/1281061.ts
-
-
