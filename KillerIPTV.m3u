@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
+#EXTM3U url-tvg="https://epg.blaosolar.vn/schedule/epg.xml"
 #-------------------VTV-THVN-------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV-THVN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1 (HD 8Mbps)
 udp://@225.1.2.249:30120
