@@ -535,6 +535,12 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544238&ex
 #EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORTS (EVENT)" group-title="THỂ THAO|4K ULTRA HD",4K: SKY SPORTS (EVENT)
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544240&extension=ts&play_token=BYPax3YMgs&sn2=
 
+#EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title=THỂ THAO|4K ULTRA HD",DAZN 1 UHD
+http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/698216.ts
+
+#EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="THỂ THAO|4K ULTRA HD",DAZN 2 UHD
+http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/698220.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="4K: ESPN" group-title="THỂ THAO|4K ULTRA HD",4K: ESPN
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544250&extension=ts&play_token=NvSl2Dr2Ds&sn2=
 
@@ -793,16 +799,12 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=325027&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=325026&extension=ts&play_token=fL2DcvYVcD&sn2=
 
 #-------------------DAZN|Sports-------------------#
-#EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DAZN|Sports",DAZN 1 UHD
-http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/698216.ts
 #EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DAZN|Sports",DAZN 1 RAW
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/868045.ts
 #EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DAZN|Sports",DAZN 1 FHD
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/698215.ts
 #EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DAZN|Sports",DAZN 1 HD
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/698217.ts
-#EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DAZN|Sports",DAZN 2 UHD
-http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/698220.ts
 #EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DAZN|Sports",DAZN 2 RAW
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/868046.ts
 #EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DAZN|Sports",DAZN 2 FHD
