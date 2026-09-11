@@ -464,19 +464,19 @@ http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1425368.ts
 http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1425369.ts
 
 # ==================== TSN Sports ====================
-#EXTINF:-1 tvg-id="" tvg-name="TSN1 FHD" group-title="THỂ THAO",TSN1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TSN1 FHD" group-title="TSN Sports",TSN1 FHD
 http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:AA:70:4A&stream=708842&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN2 FHD" group-title="THỂ THAO",TSN2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TSN2 FHD" group-title="TSN Sports",TSN2 FHD
 http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:AA:70:4A&stream=708841&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN3 FHD" group-title="THỂ THAO",TSN3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TSN3 FHD" group-title="TSN Sports",TSN3 FHD
 http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:AA:70:4A&stream=708840&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN4 FHD" group-title="THỂ THAO",TSN4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TSN4 FHD" group-title="TSN Sports",TSN4 FHD
 http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:AA:70:4A&stream=708839&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN5 FHD" group-title="THỂ THAO",TSN5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TSN5 FHD" group-title="TSN Sports",TSN5 FHD
 http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:AA:70:4A&stream=708838&extension=ts
 
 #-------------------ZIGGO SPORT-------------------#
