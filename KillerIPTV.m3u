@@ -320,8 +320,6 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=10023&expires=1789108592&token=4de7e
 https://tv.vietanhtv.top/tv360/tv360.php?id=10024&expires=1789108592&token=13eeb7223062389e8be6b84078b4edd5
 
 #-------------------THỂ THAO|4K ULTRA HD-------------------#
-#EXTINF:-1 tvg-id="" tvg-name="4K: ZIGGO SPORT" group-title="THỂ THAO|4K ULTRA HD",4K: ZIGGO SPORT
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544251&extension=ts&play_token=3A7UMOQ07K&sn2=
 
 #EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORTS MAIN EVENTS" group-title="THỂ THAO|4K ULTRA HD",4K: SKY SPORTS MAIN EVENTS
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544239&extension=ts&play_token=q6WWbd6eLT&sn2=
@@ -440,6 +438,54 @@ http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1425368.ts
 #EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="VIP - MOVISTAR LIGA DE CAMPEONES 2 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",VIP - MOVISTAR LIGA DE CAMPEONES 2 4K
 http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1425369.ts
 
+# ==================== TSN Sports ====================
+#EXTINF:-1 tvg-id="" tvg-name="TSN1 FHD" group-title="THỂ THAO",TSN1 FHD
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:AA:70:4A&stream=708842&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN2 FHD" group-title="THỂ THAO",TSN2 FHD
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:AA:70:4A&stream=708841&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN3 FHD" group-title="THỂ THAO",TSN3 FHD
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:AA:70:4A&stream=708840&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN4 FHD" group-title="THỂ THAO",TSN4 FHD
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:AA:70:4A&stream=708839&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN5 FHD" group-title="THỂ THAO",TSN5 FHD
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:AA:70:4A&stream=708838&extension=ts
+
+#-------------------ZIGGO SPORT-------------------#
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT 1 FHD 50fps" group-title="ZIGGO SPORT",ZIGGO SPORT 1 FHD 50fps
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:5D:AB:3F&stream=932999&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT 2 FHD 50fps" group-title="ZIGGO SPORT",ZIGGO SPORT 2 FHD 50fps
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:5D:AB:3F&stream=932997&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT 3 FHD 50fps" group-title="ZIGGO SPORT",ZIGGO SPORT 3 FHD 50fps
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:5D:AB:3F&stream=392120&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT 4 FHD 50fps" group-title="ZIGGO SPORT",ZIGGO SPORT 4 FHD 50fps
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:5D:AB:3F&stream=237600&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT 5 FHD 50fps" group-title="ZIGGO SPORT",ZIGGO SPORT 5 FHD 50fps
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:5D:AB:3F&stream=392121&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT 6 FHD 50fps" group-title="ZIGGO SPORT",ZIGGO SPORT 6 FHD 50fps
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:5D:AB:3F&stream=933002&extension=ts
+
+# ==================== ESPN Sports ====================
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" group-title="ESPN Sports",ESPN
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:5D:AB:3F&stream=548074&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" group-title="ESPN Sports",ESPN 2
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:5D:AB:3F&stream=548073&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" group-title="ESPN Sports",ESPN 3
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:5D:AB:3F&stream=548072&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" group-title="ESPN Sports",ESPN 4
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:5D:AB:3F&stream=548071&extension=ts
+
 #-------------------SKY SPORTS-------------------#
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS HQ RAW" tvg-logo="https://example.com/logos/skysportsnews.png" group-title="SKY SPORTS",SKY SPORTS NEWS HQ RAW
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527641&extension=ts&play_token=aL3YJaPWe5&sn2=
@@ -473,6 +519,23 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527620&exte
 
 #EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="SKY SPORTS+ HD" tvg-logo="https://example.com/logos/skysportsplus.png" group-title="SKY SPORTS",SKY SPORTS+ HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527618&extension=ts&play_token=6YXQKAgJiQ&sn2=
+
+#-------------------TNT SPORTS-------------------#
+#EXTINF:-1 tvg-id="TNT.Sport1.uk" tvg-name="TNT SPORT 1 HD" tvg-logo="https://example.com/logos/tntsport1.png" group-title="TNT SPORTS",TNT SPORT 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527616&extension=ts&play_token=NlaeqYNH7q&sn2=
+
+#EXTINF:-1 tvg-id="TNT.Sport2.uk" tvg-name="TNT SPORT 2 HD" tvg-logo="https://example.com/logos/tntsport2.png" group-title="TNT SPORTS",TNT SPORT 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527614&extension=ts&play_token=r5jxsLMzRS&sn2=
+
+#EXTINF:-1 tvg-id="TNT.Sport3.uk" tvg-name="TNT SPORT 3 HD" tvg-logo="https://example.com/logos/tntsport3.png" group-title="TNT SPORTS",TNT SPORT 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527612&extension=ts&play_token=oOocBdnytf&sn2=
+
+#EXTINF:-1 tvg-id="TNT.Sports4.uk" tvg-name="TNT SPORTS 4 HD" tvg-logo="https://example.com/logos/tntsport4.png" group-title="TNT SPORTS",TNT SPORTS 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:75:BD:1D&stream=1527610&extension=ts&play_token=tkt0QGtmue&sn2=
+
+#EXTINF:-1 tvg-id="TNT.Sports5.uk" tvg-name="TNT SPORTS 5 HD" tvg-logo="https://example.com/logos/tntsport5.png" group-title="TNT SPORTS",TNT SPORTS 5 HD
+http://103.176.90.143:80/play/live.php?mac=00:1A:79:BF:F0:EF&stream=1004549&extension=ts&play_token=M5KyQV2OCZ
+
 
 #-------------------SPORTS4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ-------------------#
 #EXTINF:-1 tvg-id="Bein4K.me" tvg-name="BEIN 4K UHD" tvg-logo="https://example.com/logos/bein4k.png" group-title="SPORTS4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",BEIN 4K UHD 3840P NM
