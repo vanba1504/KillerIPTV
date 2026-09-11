@@ -525,6 +525,11 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=10023&expires=1789108592&token=4de7e
 https://tv.vietanhtv.top/tv360/tv360.php?id=10024&expires=1789108592&token=13eeb7223062389e8be6b84078b4edd5
 
 #-------------------THỂ THAO|4K ULTRA HD-------------------#
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="EPL Premier 2 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",EPL Premier 2 4K
+http://tv.kkzbigserver.iptv.uno:80/live/Twqy3GA21/8J7Oef87/162070.ts
+
+#EXTINF:-1 tvg-id="skybundesliga.de" tvg-name="Sky Bundesliga UHD DE" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",Sky Bundesliga UHD DE
+http://tv.kkzbigserver.iptv.uno:80/live/Twqy3GA21/8J7Oef87/88667.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORTS MAIN EVENTS" group-title="THỂ THAO|4K ULTRA HD",4K: SKY SPORTS MAIN EVENTS
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544239&extension=ts&play_token=q6WWbd6eLT&sn2=
