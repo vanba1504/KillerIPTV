@@ -540,7 +540,7 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544238&ex
 #EXTINF:-1 tvg-id="" tvg-name="4K: SKY SPORTS (EVENT)" group-title="THỂ THAO|4K ULTRA HD",4K: SKY SPORTS (EVENT)
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:CF&stream=1544240&extension=ts&play_token=BYPax3YMgs&sn2=
 
-#EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title=THỂ THAO|4K ULTRA HD",DAZN 1 UHD
+#EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="THỂ THAO|4K ULTRA HD",DAZN 1 UHD
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/698216.ts
 
 #EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="THỂ THAO|4K ULTRA HD",DAZN 2 UHD
