@@ -429,6 +429,13 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 
 #-------------------THỂ THAO|4K ULTRA HD-------------------#
+#EXTINF:-1 tvg-name="Astro SuperSport" group-title="THỂ THAO|4K ULTRA HD",Astro SuperSport
+http://rapideeiptvv.org:80/live/588WYB8YXY0FDPS/KBaA0tm2BR/1470225.ts
+#EXTINF:-1 tvg-name="Big Ten Network" group-title="THỂ THAO|4K ULTRA HD",Big Ten Network
+http://rapideeiptvv.org:80/live/588WYB8YXY0FDPS/KBaA0tm2BR/1361319.ts
+#EXTINF:-1 tvg-name="FOX 4K" group-title="THỂ THAO|4K ULTRA HD",FOX 4K
+http://rapideeiptvv.org:80/live/588WYB8YXY0FDPS/KBaA0tm2BR/71371.ts
+
 #EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="EPL Premier 2 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",EPL Premier 2 4K
 http://tv.kkzbigserver.iptv.uno:80/live/Twqy3GA21/8J7Oef87/162070.ts
 
