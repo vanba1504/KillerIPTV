@@ -458,6 +458,68 @@ http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:14:C0:9C&stream=2162327&exten
 #EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",NESN UHD/4K+
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:14:C0:9C&stream=1124351&extension=ts&play_token=IzOOeWVOmI
 
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",ESPN UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=1284547&extension=ts&play_token=Wt3887ClwJ&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",ZIGGO SPORT UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=1284545&extension=ts&play_token=lG5RNaVgu5&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",M6 UHD/4K
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=1284580&extension=ts&play_token=CIOTBz1EQO&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",TF1 HDR/UHD/4K
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=1284583&extension=ts&play_token=WfrBcVeDw6&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",NL - ESPN 4 4K
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=891517&extension=ts&play_token=iE3psmVsok&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",NL - ESPN 3 4K
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=891518&extension=ts&play_token=XlCsOZTXtK&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",NL - ESPN 2 4K
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=891519&extension=ts&play_token=JojR1BwcT6&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",NL - ESPN 1 4K
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=891520&extension=ts&play_token=O2XzNn5fgi&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",FR - GOLF+ UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=543421&extension=ts&play_token=XSIS3qKw8s&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",FR - TRACE SPORTS UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=543412&extension=ts&play_token=7EziibzjQe&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",FR - INFOSPORT UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=543408&extension=ts&play_token=EaLF1gtNeW&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",FR - EUROSPORT 2 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=543415&extension=ts&play_token=Jri3rRRXRK&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",FR - EUROSPORT 1 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=543413&extension=ts&play_token=0V3DCGMi5X&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",FR - CANAL+ SPORT UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=543382&extension=ts&play_token=MXTbCM9I6I&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",FR - CANAL+ PL UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=543384&extension=ts&play_token=ptOloMwYzw&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",FR - RMC SPORT 1 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=756577&extension=ts&play_token=ier6llHAv7&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",FR - CANAL+ SPORT 360 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=807391&extension=ts&play_token=Au4ag8M1xo&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",FR - CANAL+ FOOT UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=807390&extension=ts&play_token=Wl2PkHdQj9&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",AR - LIBYA SPORT 2 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=584509&extension=ts&play_token=1Ry0eljSig&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",AR - LIBYA SPORT 1 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=703180&extension=ts&play_token=iGQhA9MxW2&sn2=
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",AR - AL RABIAA SPORT UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:A3:55:B2&stream=614442&extension=ts&play_token=DzHvd3pzwn&sn2=
 #-------------------THỂ THAO|4K ULTRA HD-------------------#
 #EXTINF:-1 tvg-name="Astro SuperSport" group-title="THỂ THAO|4K ULTRA HD",Astro SuperSport
 http://rapideeiptvv.org:80/live/588WYB8YXY0FDPS/KBaA0tm2BR/1470225.ts
