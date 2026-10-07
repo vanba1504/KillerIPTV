@@ -428,6 +428,36 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
 https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",M+ LALIGA TV UHD/4K NM
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:14:C0:9C&stream=1948619&extension=ts&play_token=E19CkWZMFf
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",SPORTSNET ONE CA UHD/4K
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:14:C0:9C&stream=1948644&extension=ts&play_token=7ykskbDj4R
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",NOW SPORTS UHD/4K
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:14:C0:9C&stream=1948655&extension=ts&play_token=kfaUeUREde
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",ZIGGO SPORT UHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:14:C0:9C&stream=1481950&extension=ts&play_token=ksmoGhxubb
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",ESPN UHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:14:C0:9C&stream=1481941&extension=ts&play_token=h0mN9oLERo
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",SPORTSNET 360 UHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:14:C0:9C&stream=1470603&extension=ts&play_token=1VadYRvGIA
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",SKY SPORTS 2 UHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:14:C0:9C&stream=1608068&extension=ts&play_token=K91vvg0XPM
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",SKY SPORTS 1 UHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:14:C0:9C&stream=1608068&extension=ts&play_token=K91vvg0XPM
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",ASTRO SUPERSPORT
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:14:C0:9C&stream=2162327&extension=ts&play_token=eXeVNfVoap
+
+#EXTINF:-1 group-title="THỂ THAO|4K ULTRA2 HD",NESN UHD/4K+
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:14:C0:9C&stream=1124351&extension=ts&play_token=IzOOeWVOmI
+
 #-------------------THỂ THAO|4K ULTRA HD-------------------#
 #EXTINF:-1 tvg-name="Astro SuperSport" group-title="THỂ THAO|4K ULTRA HD",Astro SuperSport
 http://rapideeiptvv.org:80/live/588WYB8YXY0FDPS/KBaA0tm2BR/1470225.ts
