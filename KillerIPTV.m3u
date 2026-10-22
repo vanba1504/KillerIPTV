@@ -491,6 +491,69 @@ http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1425368.ts
 #EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="VIP - MOVISTAR LIGA DE CAMPEONES 2 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="THỂ THAO|4K ULTRA HD",VIP - MOVISTAR LIGA DE CAMPEONES 2 4K
 http://raztv.online/live/94U19T3EAQ68DAP/6uU3DX7OP5/1425369.ts
 
+#EXTINF:-1 group-title="IT",IT: SKY SPORT 24 4K
+http://vlue.vip/live/504015540099/320401171379/764186.ts
+#EXTINF:-1 group-title="IT",IT: SKY SPORT MAX 4K
+http://vlue.vip/live/504015540099/320401171379/764198.ts
+#EXTINF:-1 group-title="IT",IT: SKY SPORT BASKET 4K
+http://vlue.vip/live/504015540099/320401171379/764201.ts
+#EXTINF:-1 group-title="IT",IT: SKY SPORT TENNIS 4K
+http://vlue.vip/live/504015540099/320401171379/764204.ts
+#EXTINF:-1 group-title="IT",IT: SKY SPORT F1 4K
+http://vlue.vip/live/504015540099/320401171379/764207.ts
+#EXTINF:-1 group-title="IT",IT: SKY SPORT MOTOGP 4K
+http://vlue.vip/live/504015540099/320401171379/764210.ts
+#EXTINF:-1 group-title="IT",IT: SKY SPORT GOLF 4K
+http://vlue.vip/live/504015540099/320401171379/764213.ts
+#EXTINF:-1 group-title="IT",IT: SKY SPORT 251 4K
+http://vlue.vip/live/504015540099/320401171379/764216.ts
+#EXTINF:-1 group-title="GR",GR: SKY SPORT NEWS 4K
+http://vlue.vip/live/504015540099/320401171379/764100.ts
+#EXTINF:-1 group-title="GR",GR: SKY SPORT PREMIER LEAGUE 4K
+http://vlue.vip/live/504015540099/320401171379/764103.ts
+#EXTINF:-1 group-title="GR",GR: SKY SPORT TOP EVENT 4K
+http://vlue.vip/live/504015540099/320401171379/764106.ts
+#EXTINF:-1 group-title="GR",GR: SKY SPORT MIX 4K
+http://vlue.vip/live/504015540099/320401171379/764109.ts
+#EXTINF:-1 group-title="GR",GR: SKY SPORT TENNIS 4K
+http://vlue.vip/live/504015540099/320401171379/764112.ts
+#EXTINF:-1 group-title="GR",GR: SKY SPORT MAX 4K
+http://vlue.vip/live/504015540099/320401171379/764115.ts
+#EXTINF:-1 group-title="GR",GR: SKY SPORT BASKET 4K
+http://vlue.vip/live/504015540099/320401171379/764118.ts
+#EXTINF:-1 group-title="GR",GR: SKY SPORT BUNDESLIGA 4K
+http://vlue.vip/live/504015540099/320401171379/764130.ts
+#EXTINF:-1 group-title="GR",GR: SKY SPORT BUNDESLIGA 2 4K
+http://vlue.vip/live/504015540099/320401171379/764134.ts
+#EXTINF:-1 group-title="GR",GR: SKY SPORT BUNDESLIGA 3 4K
+http://vlue.vip/live/504015540099/320401171379/764136.ts
+#EXTINF:-1 group-title="UK",UK: SKY SPORTS NEWS UHD
+http://vlue.vip/live/504015540099/320401171379/789276.ts
+#EXTINF:-1 group-title="UK",UK: SKY SPORTS FOOTBALL UHD
+http://vlue.vip/live/504015540099/320401171379/789280.ts
+#EXTINF:-1 group-title="UK",UK: SKY SPORTS PREMIER LEAGUE UHD
+http://vlue.vip/live/504015540099/320401171379/789282.ts
+#EXTINF:-1 group-title="UK",UK: SKY SPORTS MAIN EVENT UHD
+http://vlue.vip/live/504015540099/320401171379/789287.ts
+#EXTINF:-1 group-title="UK",UK: SKY SPORTS MAIN EVENT 4K
+http://vlue.vip/live/504015540099/320401171379/789288.ts
+#EXTINF:-1 group-title="UK",UK: SKY SPORTS ACTION UHD
+http://vlue.vip/live/504015540099/320401171379/789289.ts
+#EXTINF:-1 group-title="UK",UK: SKY SPORTS ARENA UHD
+http://vlue.vip/live/504015540099/320401171379/789290.ts
+#EXTINF:-1 group-title="UK",UK: SKY SPORTS MIX UHD
+http://vlue.vip/live/504015540099/320401171379/789296.ts
+#EXTINF:-1 group-title="UK",UK: SKY SPORTS NFL UHD
+http://vlue.vip/live/504015540099/320401171379/789303.ts
+#EXTINF:-1 group-title="UK",UK: PREMIER SPORTS 1 UK 4K
+http://vlue.vip/live/504015540099/320401171379/789328.ts
+#EXTINF:-1 group-title="UK",UK: PREMIER SPORTS 2 UK 4K
+http://vlue.vip/live/504015540099/320401171379/789329.ts
+#EXTINF:-1 group-title="UK",UK: PREMIER SPORTS 1 4K
+http://vlue.vip/live/504015540099/320401171379/789331.ts
+#EXTINF:-1 group-title="UK",UK: PREMIER SPORTS 2 4K
+http://vlue.vip/live/504015540099/320401171379/789333.ts
+
 # ==================== TSN Sports ====================
 #EXTINF:-1 tvg-id="" tvg-name="TSN1 FHD" group-title="TSN Sports",TSN1 FHD
 http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:AA:70:4A&stream=708842&extension=ts
